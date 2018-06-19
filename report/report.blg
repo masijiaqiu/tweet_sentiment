@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-bibliography.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in banko2001scaling
+Warning--empty address in banko2001scaling
+Warning--empty address in bottou2010large
+Warning--empty publisher in brants2007large
+Warning--empty address in brants2007large
+Warning--page numbers missing in both pages and numpages fields in brants2007large
+Warning--empty address in christopher2016pattern
+Warning--empty publisher in chu2007map
+Warning--empty address in chu2007map
+Warning--empty address in harrell2001ordinal
+Warning--no number and no volume in ioffe2015batch
+Warning--page numbers missing in both pages and numpages fields in ioffe2015batch
+Warning--empty publisher in lin2012large
+Warning--empty address in lin2012large
+Warning--empty publisher in mcdonald2010distributed
+Warning--empty address in mcdonald2010distributed
+Warning--empty publisher in mcdonald2009efficient
+Warning--empty address in mcdonald2009efficient
+Warning--empty publisher in sculley2011detecting
+Warning--empty address in sculley2011detecting
+Warning--empty publisher in shvachko2010hadoop
+Warning--empty address in shvachko2010hadoop
+Warning--page numbers missing in both pages and numpages fields in svore2011large
+Warning--empty publisher in thusoo2010hive
+Warning--empty address in thusoo2010hive
+Warning--empty address in witten2016data
+You've used 23 entries,
+            5732 wiz_defined-function locations,
+            1427 strings with 18944 characters,
+and the built_in function-call counts, 28394 in all, are:
+= -- 3517
+> -- 1084
+< -- 0
++ -- 363
+- -- 376
+* -- 2019
+:= -- 2914
+add.period$ -- 118
+call.type$ -- 23
+change.case$ -- 169
+chr.to.int$ -- 23
+cite$ -- 49
+duplicate$ -- 2493
+empty$ -- 1741
+format.name$ -- 448
+if$ -- 6847
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 91
+newline$ -- 215
+num.names$ -- 184
+pop$ -- 966
+preamble$ -- 1
+purify$ -- 376
+quote$ -- 0
+skip$ -- 877
+stack$ -- 0
+substring$ -- 2073
+swap$ -- 266
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 520
+warning$ -- 26
+while$ -- 186
+width$ -- 0
+write$ -- 426
+(There were 26 warnings)
